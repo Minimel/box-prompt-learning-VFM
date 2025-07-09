@@ -11,7 +11,7 @@ models by training a dedicated prompt generator module using only bounding box a
 ## Framework
 
 <p float="left">
-  <img src="images/SAMPromptLearningWithBoxes.png" width="100%" />
+  <img src="images/SAMPromptLearningWithBoxes.png" width="50%" />
 </p>
 
 

@@ -1,0 +1,7 @@
+type: 'module_hardnet'
+args:
+  depth_wise: False
+  order: 85
+  in_channels: 3
+  input: image_orig_size
+  output: ["dense_embeddings"]

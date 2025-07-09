@@ -1,0 +1,2 @@
+dataset_name:  "ACDC/preprocessed_sam"
+data_shape: [256, 256]

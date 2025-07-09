@@ -1,0 +1,2 @@
+dataset_name:  "CAMUS_public/preprocessed_sam"
+data_shape: [512, 512]

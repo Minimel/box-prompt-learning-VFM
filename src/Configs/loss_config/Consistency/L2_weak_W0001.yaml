@@ -1,0 +1,10 @@
+type: 'ConsistencyLoss'
+weight: 0.001
+start_epoch: 0
+kwargs: 
+  pred_name: 'probs_transformed'
+  target_str: 'transformed_probs'
+  idc: [1]
+  loss_type: 'L2'
+  augmentation_strength: 'weak'
+other_kwargs: null

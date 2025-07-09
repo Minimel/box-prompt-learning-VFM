@@ -1,0 +1,2 @@
+dataset_name:  "HC18/preprocessed_sam"
+data_shape: [640, 640]

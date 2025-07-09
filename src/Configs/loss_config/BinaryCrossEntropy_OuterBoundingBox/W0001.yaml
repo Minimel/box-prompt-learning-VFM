@@ -1,0 +1,12 @@
+type: 'BinaryCrossEntropy_OuterBoundingBox'
+weight: 0.001
+start_epoch: 0
+kwargs:
+  target_str: 'weak_label'
+  idc: [0]
+  nd: 'wh'
+  ignore_zero_data: False
+other_kwargs:
+  bounds_name: null
+  bounds_params: null
+  fn: null
